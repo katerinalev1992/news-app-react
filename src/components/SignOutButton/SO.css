@@ -1,0 +1,9 @@
+button.NavigaionButton{
+    right: 0;
+    position: absolute;
+    margin-right: 1rem;
+    width: 100px;
+    height: 30px;
+    border-radius: 0.3rem;
+    background: linear-gradient(180deg, white, #868886);
+}

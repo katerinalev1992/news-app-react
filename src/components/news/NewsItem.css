@@ -1,0 +1,17 @@
+.Article {
+    min-width: 200px;
+    max-width: 350px;
+    width: 100%;
+    border-radius: 1rem;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    box-shadow: 0 0 10px rgba(56, 56, 56, 0.5);
+}
+
+.DetailedNewsContainer{
+    width: 100%;
+}
+
+img {
+    width: inherit;
+}
